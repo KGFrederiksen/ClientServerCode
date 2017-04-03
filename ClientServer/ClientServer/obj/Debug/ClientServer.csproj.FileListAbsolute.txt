@@ -1,0 +1,13 @@
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.csprojResolveAssemblyReference.cache
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.Form1.resources
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.Cache
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.exe.manifest
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\bin\Debug\ClientServer.application
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.exe.manifest
+c:\users\kasper\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\ClientServer.application
